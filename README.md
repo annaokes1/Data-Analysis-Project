@@ -16,3 +16,13 @@ The skills gained during this project:
 
 The tools used in this project 
 SQL, Excel, Tableau
+
+What you learnt
+
+
+What the results were
+2/3 bullet 
+
+Recommendations: 
+
+We would recommend netflix to review prices based on analysis which showed xyz
